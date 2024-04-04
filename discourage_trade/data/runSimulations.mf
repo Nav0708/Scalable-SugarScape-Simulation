@@ -1,0 +1,900 @@
+benthamHalfLookaheadBinary772910187987212191.json: benthamHalfLookaheadBinary772910187987212191.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary772910187987212191.config > benthamHalfLookaheadBinary772910187987212191.json
+
+egoisticHalfLookaheadBinary772910187987212191.json: egoisticHalfLookaheadBinary772910187987212191.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary772910187987212191.config > egoisticHalfLookaheadBinary772910187987212191.json
+
+rawSugarscape772910187987212191.json: rawSugarscape772910187987212191.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape772910187987212191.config > rawSugarscape772910187987212191.json
+
+benthamHalfLookaheadBinary275953333728635777.json: benthamHalfLookaheadBinary275953333728635777.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary275953333728635777.config > benthamHalfLookaheadBinary275953333728635777.json
+
+egoisticHalfLookaheadBinary275953333728635777.json: egoisticHalfLookaheadBinary275953333728635777.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary275953333728635777.config > egoisticHalfLookaheadBinary275953333728635777.json
+
+rawSugarscape275953333728635777.json: rawSugarscape275953333728635777.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape275953333728635777.config > rawSugarscape275953333728635777.json
+
+benthamHalfLookaheadBinary4009245545346578135.json: benthamHalfLookaheadBinary4009245545346578135.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary4009245545346578135.config > benthamHalfLookaheadBinary4009245545346578135.json
+
+egoisticHalfLookaheadBinary4009245545346578135.json: egoisticHalfLookaheadBinary4009245545346578135.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary4009245545346578135.config > egoisticHalfLookaheadBinary4009245545346578135.json
+
+rawSugarscape4009245545346578135.json: rawSugarscape4009245545346578135.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape4009245545346578135.config > rawSugarscape4009245545346578135.json
+
+benthamHalfLookaheadBinary6407286203191153878.json: benthamHalfLookaheadBinary6407286203191153878.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary6407286203191153878.config > benthamHalfLookaheadBinary6407286203191153878.json
+
+egoisticHalfLookaheadBinary6407286203191153878.json: egoisticHalfLookaheadBinary6407286203191153878.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary6407286203191153878.config > egoisticHalfLookaheadBinary6407286203191153878.json
+
+rawSugarscape6407286203191153878.json: rawSugarscape6407286203191153878.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape6407286203191153878.config > rawSugarscape6407286203191153878.json
+
+benthamHalfLookaheadBinary2151740745096374575.json: benthamHalfLookaheadBinary2151740745096374575.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary2151740745096374575.config > benthamHalfLookaheadBinary2151740745096374575.json
+
+egoisticHalfLookaheadBinary2151740745096374575.json: egoisticHalfLookaheadBinary2151740745096374575.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary2151740745096374575.config > egoisticHalfLookaheadBinary2151740745096374575.json
+
+rawSugarscape2151740745096374575.json: rawSugarscape2151740745096374575.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape2151740745096374575.config > rawSugarscape2151740745096374575.json
+
+benthamHalfLookaheadBinary1040544563655548896.json: benthamHalfLookaheadBinary1040544563655548896.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary1040544563655548896.config > benthamHalfLookaheadBinary1040544563655548896.json
+
+egoisticHalfLookaheadBinary1040544563655548896.json: egoisticHalfLookaheadBinary1040544563655548896.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary1040544563655548896.config > egoisticHalfLookaheadBinary1040544563655548896.json
+
+rawSugarscape1040544563655548896.json: rawSugarscape1040544563655548896.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape1040544563655548896.config > rawSugarscape1040544563655548896.json
+
+benthamHalfLookaheadBinary3279622123350548808.json: benthamHalfLookaheadBinary3279622123350548808.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary3279622123350548808.config > benthamHalfLookaheadBinary3279622123350548808.json
+
+egoisticHalfLookaheadBinary3279622123350548808.json: egoisticHalfLookaheadBinary3279622123350548808.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary3279622123350548808.config > egoisticHalfLookaheadBinary3279622123350548808.json
+
+rawSugarscape3279622123350548808.json: rawSugarscape3279622123350548808.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape3279622123350548808.config > rawSugarscape3279622123350548808.json
+
+benthamHalfLookaheadBinary7531690275491467876.json: benthamHalfLookaheadBinary7531690275491467876.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary7531690275491467876.config > benthamHalfLookaheadBinary7531690275491467876.json
+
+egoisticHalfLookaheadBinary7531690275491467876.json: egoisticHalfLookaheadBinary7531690275491467876.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary7531690275491467876.config > egoisticHalfLookaheadBinary7531690275491467876.json
+
+rawSugarscape7531690275491467876.json: rawSugarscape7531690275491467876.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape7531690275491467876.config > rawSugarscape7531690275491467876.json
+
+benthamHalfLookaheadBinary9223208054888671419.json: benthamHalfLookaheadBinary9223208054888671419.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary9223208054888671419.config > benthamHalfLookaheadBinary9223208054888671419.json
+
+egoisticHalfLookaheadBinary9223208054888671419.json: egoisticHalfLookaheadBinary9223208054888671419.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary9223208054888671419.config > egoisticHalfLookaheadBinary9223208054888671419.json
+
+rawSugarscape9223208054888671419.json: rawSugarscape9223208054888671419.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape9223208054888671419.config > rawSugarscape9223208054888671419.json
+
+benthamHalfLookaheadBinary6875797821762026305.json: benthamHalfLookaheadBinary6875797821762026305.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary6875797821762026305.config > benthamHalfLookaheadBinary6875797821762026305.json
+
+egoisticHalfLookaheadBinary6875797821762026305.json: egoisticHalfLookaheadBinary6875797821762026305.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary6875797821762026305.config > egoisticHalfLookaheadBinary6875797821762026305.json
+
+rawSugarscape6875797821762026305.json: rawSugarscape6875797821762026305.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape6875797821762026305.config > rawSugarscape6875797821762026305.json
+
+benthamHalfLookaheadBinary7902877809524836653.json: benthamHalfLookaheadBinary7902877809524836653.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary7902877809524836653.config > benthamHalfLookaheadBinary7902877809524836653.json
+
+egoisticHalfLookaheadBinary7902877809524836653.json: egoisticHalfLookaheadBinary7902877809524836653.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary7902877809524836653.config > egoisticHalfLookaheadBinary7902877809524836653.json
+
+rawSugarscape7902877809524836653.json: rawSugarscape7902877809524836653.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape7902877809524836653.config > rawSugarscape7902877809524836653.json
+
+benthamHalfLookaheadBinary6958862194656524065.json: benthamHalfLookaheadBinary6958862194656524065.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary6958862194656524065.config > benthamHalfLookaheadBinary6958862194656524065.json
+
+egoisticHalfLookaheadBinary6958862194656524065.json: egoisticHalfLookaheadBinary6958862194656524065.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary6958862194656524065.config > egoisticHalfLookaheadBinary6958862194656524065.json
+
+rawSugarscape6958862194656524065.json: rawSugarscape6958862194656524065.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape6958862194656524065.config > rawSugarscape6958862194656524065.json
+
+benthamHalfLookaheadBinary8927883370773907959.json: benthamHalfLookaheadBinary8927883370773907959.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary8927883370773907959.config > benthamHalfLookaheadBinary8927883370773907959.json
+
+egoisticHalfLookaheadBinary8927883370773907959.json: egoisticHalfLookaheadBinary8927883370773907959.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary8927883370773907959.config > egoisticHalfLookaheadBinary8927883370773907959.json
+
+rawSugarscape8927883370773907959.json: rawSugarscape8927883370773907959.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape8927883370773907959.config > rawSugarscape8927883370773907959.json
+
+benthamHalfLookaheadBinary6724400731604177619.json: benthamHalfLookaheadBinary6724400731604177619.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary6724400731604177619.config > benthamHalfLookaheadBinary6724400731604177619.json
+
+egoisticHalfLookaheadBinary6724400731604177619.json: egoisticHalfLookaheadBinary6724400731604177619.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary6724400731604177619.config > egoisticHalfLookaheadBinary6724400731604177619.json
+
+rawSugarscape6724400731604177619.json: rawSugarscape6724400731604177619.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape6724400731604177619.config > rawSugarscape6724400731604177619.json
+
+benthamHalfLookaheadBinary2678884224435797000.json: benthamHalfLookaheadBinary2678884224435797000.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary2678884224435797000.config > benthamHalfLookaheadBinary2678884224435797000.json
+
+egoisticHalfLookaheadBinary2678884224435797000.json: egoisticHalfLookaheadBinary2678884224435797000.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary2678884224435797000.config > egoisticHalfLookaheadBinary2678884224435797000.json
+
+rawSugarscape2678884224435797000.json: rawSugarscape2678884224435797000.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape2678884224435797000.config > rawSugarscape2678884224435797000.json
+
+benthamHalfLookaheadBinary3666130655692202596.json: benthamHalfLookaheadBinary3666130655692202596.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary3666130655692202596.config > benthamHalfLookaheadBinary3666130655692202596.json
+
+egoisticHalfLookaheadBinary3666130655692202596.json: egoisticHalfLookaheadBinary3666130655692202596.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary3666130655692202596.config > egoisticHalfLookaheadBinary3666130655692202596.json
+
+rawSugarscape3666130655692202596.json: rawSugarscape3666130655692202596.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape3666130655692202596.config > rawSugarscape3666130655692202596.json
+
+benthamHalfLookaheadBinary8529993477649717241.json: benthamHalfLookaheadBinary8529993477649717241.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary8529993477649717241.config > benthamHalfLookaheadBinary8529993477649717241.json
+
+egoisticHalfLookaheadBinary8529993477649717241.json: egoisticHalfLookaheadBinary8529993477649717241.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary8529993477649717241.config > egoisticHalfLookaheadBinary8529993477649717241.json
+
+rawSugarscape8529993477649717241.json: rawSugarscape8529993477649717241.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape8529993477649717241.config > rawSugarscape8529993477649717241.json
+
+benthamHalfLookaheadBinary3526834357475015467.json: benthamHalfLookaheadBinary3526834357475015467.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary3526834357475015467.config > benthamHalfLookaheadBinary3526834357475015467.json
+
+egoisticHalfLookaheadBinary3526834357475015467.json: egoisticHalfLookaheadBinary3526834357475015467.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary3526834357475015467.config > egoisticHalfLookaheadBinary3526834357475015467.json
+
+rawSugarscape3526834357475015467.json: rawSugarscape3526834357475015467.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape3526834357475015467.config > rawSugarscape3526834357475015467.json
+
+benthamHalfLookaheadBinary6608603367144707381.json: benthamHalfLookaheadBinary6608603367144707381.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary6608603367144707381.config > benthamHalfLookaheadBinary6608603367144707381.json
+
+egoisticHalfLookaheadBinary6608603367144707381.json: egoisticHalfLookaheadBinary6608603367144707381.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary6608603367144707381.config > egoisticHalfLookaheadBinary6608603367144707381.json
+
+rawSugarscape6608603367144707381.json: rawSugarscape6608603367144707381.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape6608603367144707381.config > rawSugarscape6608603367144707381.json
+
+benthamHalfLookaheadBinary4046308250210403016.json: benthamHalfLookaheadBinary4046308250210403016.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary4046308250210403016.config > benthamHalfLookaheadBinary4046308250210403016.json
+
+egoisticHalfLookaheadBinary4046308250210403016.json: egoisticHalfLookaheadBinary4046308250210403016.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary4046308250210403016.config > egoisticHalfLookaheadBinary4046308250210403016.json
+
+rawSugarscape4046308250210403016.json: rawSugarscape4046308250210403016.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape4046308250210403016.config > rawSugarscape4046308250210403016.json
+
+benthamHalfLookaheadBinary7585834298572305755.json: benthamHalfLookaheadBinary7585834298572305755.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary7585834298572305755.config > benthamHalfLookaheadBinary7585834298572305755.json
+
+egoisticHalfLookaheadBinary7585834298572305755.json: egoisticHalfLookaheadBinary7585834298572305755.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary7585834298572305755.config > egoisticHalfLookaheadBinary7585834298572305755.json
+
+rawSugarscape7585834298572305755.json: rawSugarscape7585834298572305755.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape7585834298572305755.config > rawSugarscape7585834298572305755.json
+
+benthamHalfLookaheadBinary417164595415574126.json: benthamHalfLookaheadBinary417164595415574126.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary417164595415574126.config > benthamHalfLookaheadBinary417164595415574126.json
+
+egoisticHalfLookaheadBinary417164595415574126.json: egoisticHalfLookaheadBinary417164595415574126.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary417164595415574126.config > egoisticHalfLookaheadBinary417164595415574126.json
+
+rawSugarscape417164595415574126.json: rawSugarscape417164595415574126.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape417164595415574126.config > rawSugarscape417164595415574126.json
+
+benthamHalfLookaheadBinary157269533760931715.json: benthamHalfLookaheadBinary157269533760931715.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary157269533760931715.config > benthamHalfLookaheadBinary157269533760931715.json
+
+egoisticHalfLookaheadBinary157269533760931715.json: egoisticHalfLookaheadBinary157269533760931715.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary157269533760931715.config > egoisticHalfLookaheadBinary157269533760931715.json
+
+rawSugarscape157269533760931715.json: rawSugarscape157269533760931715.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape157269533760931715.config > rawSugarscape157269533760931715.json
+
+benthamHalfLookaheadBinary4167841307050760777.json: benthamHalfLookaheadBinary4167841307050760777.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary4167841307050760777.config > benthamHalfLookaheadBinary4167841307050760777.json
+
+egoisticHalfLookaheadBinary4167841307050760777.json: egoisticHalfLookaheadBinary4167841307050760777.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary4167841307050760777.config > egoisticHalfLookaheadBinary4167841307050760777.json
+
+rawSugarscape4167841307050760777.json: rawSugarscape4167841307050760777.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape4167841307050760777.config > rawSugarscape4167841307050760777.json
+
+benthamHalfLookaheadBinary8689182112118184529.json: benthamHalfLookaheadBinary8689182112118184529.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary8689182112118184529.config > benthamHalfLookaheadBinary8689182112118184529.json
+
+egoisticHalfLookaheadBinary8689182112118184529.json: egoisticHalfLookaheadBinary8689182112118184529.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary8689182112118184529.config > egoisticHalfLookaheadBinary8689182112118184529.json
+
+rawSugarscape8689182112118184529.json: rawSugarscape8689182112118184529.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape8689182112118184529.config > rawSugarscape8689182112118184529.json
+
+benthamHalfLookaheadBinary4021283876986262953.json: benthamHalfLookaheadBinary4021283876986262953.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary4021283876986262953.config > benthamHalfLookaheadBinary4021283876986262953.json
+
+egoisticHalfLookaheadBinary4021283876986262953.json: egoisticHalfLookaheadBinary4021283876986262953.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary4021283876986262953.config > egoisticHalfLookaheadBinary4021283876986262953.json
+
+rawSugarscape4021283876986262953.json: rawSugarscape4021283876986262953.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape4021283876986262953.config > rawSugarscape4021283876986262953.json
+
+benthamHalfLookaheadBinary6379877144836178772.json: benthamHalfLookaheadBinary6379877144836178772.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary6379877144836178772.config > benthamHalfLookaheadBinary6379877144836178772.json
+
+egoisticHalfLookaheadBinary6379877144836178772.json: egoisticHalfLookaheadBinary6379877144836178772.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary6379877144836178772.config > egoisticHalfLookaheadBinary6379877144836178772.json
+
+rawSugarscape6379877144836178772.json: rawSugarscape6379877144836178772.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape6379877144836178772.config > rawSugarscape6379877144836178772.json
+
+benthamHalfLookaheadBinary3371936968000036075.json: benthamHalfLookaheadBinary3371936968000036075.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary3371936968000036075.config > benthamHalfLookaheadBinary3371936968000036075.json
+
+egoisticHalfLookaheadBinary3371936968000036075.json: egoisticHalfLookaheadBinary3371936968000036075.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary3371936968000036075.config > egoisticHalfLookaheadBinary3371936968000036075.json
+
+rawSugarscape3371936968000036075.json: rawSugarscape3371936968000036075.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape3371936968000036075.config > rawSugarscape3371936968000036075.json
+
+benthamHalfLookaheadBinary2422109928034595476.json: benthamHalfLookaheadBinary2422109928034595476.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary2422109928034595476.config > benthamHalfLookaheadBinary2422109928034595476.json
+
+egoisticHalfLookaheadBinary2422109928034595476.json: egoisticHalfLookaheadBinary2422109928034595476.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary2422109928034595476.config > egoisticHalfLookaheadBinary2422109928034595476.json
+
+rawSugarscape2422109928034595476.json: rawSugarscape2422109928034595476.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape2422109928034595476.config > rawSugarscape2422109928034595476.json
+
+benthamHalfLookaheadBinary7754946709533489013.json: benthamHalfLookaheadBinary7754946709533489013.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary7754946709533489013.config > benthamHalfLookaheadBinary7754946709533489013.json
+
+egoisticHalfLookaheadBinary7754946709533489013.json: egoisticHalfLookaheadBinary7754946709533489013.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary7754946709533489013.config > egoisticHalfLookaheadBinary7754946709533489013.json
+
+rawSugarscape7754946709533489013.json: rawSugarscape7754946709533489013.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape7754946709533489013.config > rawSugarscape7754946709533489013.json
+
+benthamHalfLookaheadBinary250406190491288109.json: benthamHalfLookaheadBinary250406190491288109.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary250406190491288109.config > benthamHalfLookaheadBinary250406190491288109.json
+
+egoisticHalfLookaheadBinary250406190491288109.json: egoisticHalfLookaheadBinary250406190491288109.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary250406190491288109.config > egoisticHalfLookaheadBinary250406190491288109.json
+
+rawSugarscape250406190491288109.json: rawSugarscape250406190491288109.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape250406190491288109.config > rawSugarscape250406190491288109.json
+
+benthamHalfLookaheadBinary2304258727965798437.json: benthamHalfLookaheadBinary2304258727965798437.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary2304258727965798437.config > benthamHalfLookaheadBinary2304258727965798437.json
+
+egoisticHalfLookaheadBinary2304258727965798437.json: egoisticHalfLookaheadBinary2304258727965798437.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary2304258727965798437.config > egoisticHalfLookaheadBinary2304258727965798437.json
+
+rawSugarscape2304258727965798437.json: rawSugarscape2304258727965798437.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape2304258727965798437.config > rawSugarscape2304258727965798437.json
+
+benthamHalfLookaheadBinary2682432387545975626.json: benthamHalfLookaheadBinary2682432387545975626.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary2682432387545975626.config > benthamHalfLookaheadBinary2682432387545975626.json
+
+egoisticHalfLookaheadBinary2682432387545975626.json: egoisticHalfLookaheadBinary2682432387545975626.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary2682432387545975626.config > egoisticHalfLookaheadBinary2682432387545975626.json
+
+rawSugarscape2682432387545975626.json: rawSugarscape2682432387545975626.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape2682432387545975626.config > rawSugarscape2682432387545975626.json
+
+benthamHalfLookaheadBinary909479791845591991.json: benthamHalfLookaheadBinary909479791845591991.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary909479791845591991.config > benthamHalfLookaheadBinary909479791845591991.json
+
+egoisticHalfLookaheadBinary909479791845591991.json: egoisticHalfLookaheadBinary909479791845591991.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary909479791845591991.config > egoisticHalfLookaheadBinary909479791845591991.json
+
+rawSugarscape909479791845591991.json: rawSugarscape909479791845591991.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape909479791845591991.config > rawSugarscape909479791845591991.json
+
+benthamHalfLookaheadBinary66105322051689326.json: benthamHalfLookaheadBinary66105322051689326.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary66105322051689326.config > benthamHalfLookaheadBinary66105322051689326.json
+
+egoisticHalfLookaheadBinary66105322051689326.json: egoisticHalfLookaheadBinary66105322051689326.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary66105322051689326.config > egoisticHalfLookaheadBinary66105322051689326.json
+
+rawSugarscape66105322051689326.json: rawSugarscape66105322051689326.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape66105322051689326.config > rawSugarscape66105322051689326.json
+
+benthamHalfLookaheadBinary5783261811385171726.json: benthamHalfLookaheadBinary5783261811385171726.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary5783261811385171726.config > benthamHalfLookaheadBinary5783261811385171726.json
+
+egoisticHalfLookaheadBinary5783261811385171726.json: egoisticHalfLookaheadBinary5783261811385171726.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary5783261811385171726.config > egoisticHalfLookaheadBinary5783261811385171726.json
+
+rawSugarscape5783261811385171726.json: rawSugarscape5783261811385171726.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape5783261811385171726.config > rawSugarscape5783261811385171726.json
+
+benthamHalfLookaheadBinary3526295113147454432.json: benthamHalfLookaheadBinary3526295113147454432.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary3526295113147454432.config > benthamHalfLookaheadBinary3526295113147454432.json
+
+egoisticHalfLookaheadBinary3526295113147454432.json: egoisticHalfLookaheadBinary3526295113147454432.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary3526295113147454432.config > egoisticHalfLookaheadBinary3526295113147454432.json
+
+rawSugarscape3526295113147454432.json: rawSugarscape3526295113147454432.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape3526295113147454432.config > rawSugarscape3526295113147454432.json
+
+benthamHalfLookaheadBinary3701436248280716858.json: benthamHalfLookaheadBinary3701436248280716858.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary3701436248280716858.config > benthamHalfLookaheadBinary3701436248280716858.json
+
+egoisticHalfLookaheadBinary3701436248280716858.json: egoisticHalfLookaheadBinary3701436248280716858.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary3701436248280716858.config > egoisticHalfLookaheadBinary3701436248280716858.json
+
+rawSugarscape3701436248280716858.json: rawSugarscape3701436248280716858.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape3701436248280716858.config > rawSugarscape3701436248280716858.json
+
+benthamHalfLookaheadBinary6250719370334645418.json: benthamHalfLookaheadBinary6250719370334645418.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary6250719370334645418.config > benthamHalfLookaheadBinary6250719370334645418.json
+
+egoisticHalfLookaheadBinary6250719370334645418.json: egoisticHalfLookaheadBinary6250719370334645418.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary6250719370334645418.config > egoisticHalfLookaheadBinary6250719370334645418.json
+
+rawSugarscape6250719370334645418.json: rawSugarscape6250719370334645418.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape6250719370334645418.config > rawSugarscape6250719370334645418.json
+
+benthamHalfLookaheadBinary1917117163657840551.json: benthamHalfLookaheadBinary1917117163657840551.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary1917117163657840551.config > benthamHalfLookaheadBinary1917117163657840551.json
+
+egoisticHalfLookaheadBinary1917117163657840551.json: egoisticHalfLookaheadBinary1917117163657840551.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary1917117163657840551.config > egoisticHalfLookaheadBinary1917117163657840551.json
+
+rawSugarscape1917117163657840551.json: rawSugarscape1917117163657840551.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape1917117163657840551.config > rawSugarscape1917117163657840551.json
+
+benthamHalfLookaheadBinary6186779945345349035.json: benthamHalfLookaheadBinary6186779945345349035.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary6186779945345349035.config > benthamHalfLookaheadBinary6186779945345349035.json
+
+egoisticHalfLookaheadBinary6186779945345349035.json: egoisticHalfLookaheadBinary6186779945345349035.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary6186779945345349035.config > egoisticHalfLookaheadBinary6186779945345349035.json
+
+rawSugarscape6186779945345349035.json: rawSugarscape6186779945345349035.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape6186779945345349035.config > rawSugarscape6186779945345349035.json
+
+benthamHalfLookaheadBinary2598862300537764412.json: benthamHalfLookaheadBinary2598862300537764412.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary2598862300537764412.config > benthamHalfLookaheadBinary2598862300537764412.json
+
+egoisticHalfLookaheadBinary2598862300537764412.json: egoisticHalfLookaheadBinary2598862300537764412.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary2598862300537764412.config > egoisticHalfLookaheadBinary2598862300537764412.json
+
+rawSugarscape2598862300537764412.json: rawSugarscape2598862300537764412.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape2598862300537764412.config > rawSugarscape2598862300537764412.json
+
+benthamHalfLookaheadBinary960822633977623799.json: benthamHalfLookaheadBinary960822633977623799.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary960822633977623799.config > benthamHalfLookaheadBinary960822633977623799.json
+
+egoisticHalfLookaheadBinary960822633977623799.json: egoisticHalfLookaheadBinary960822633977623799.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary960822633977623799.config > egoisticHalfLookaheadBinary960822633977623799.json
+
+rawSugarscape960822633977623799.json: rawSugarscape960822633977623799.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape960822633977623799.config > rawSugarscape960822633977623799.json
+
+benthamHalfLookaheadBinary2671595969510406196.json: benthamHalfLookaheadBinary2671595969510406196.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary2671595969510406196.config > benthamHalfLookaheadBinary2671595969510406196.json
+
+egoisticHalfLookaheadBinary2671595969510406196.json: egoisticHalfLookaheadBinary2671595969510406196.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary2671595969510406196.config > egoisticHalfLookaheadBinary2671595969510406196.json
+
+rawSugarscape2671595969510406196.json: rawSugarscape2671595969510406196.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape2671595969510406196.config > rawSugarscape2671595969510406196.json
+
+benthamHalfLookaheadBinary2308095721203553693.json: benthamHalfLookaheadBinary2308095721203553693.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary2308095721203553693.config > benthamHalfLookaheadBinary2308095721203553693.json
+
+egoisticHalfLookaheadBinary2308095721203553693.json: egoisticHalfLookaheadBinary2308095721203553693.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary2308095721203553693.config > egoisticHalfLookaheadBinary2308095721203553693.json
+
+rawSugarscape2308095721203553693.json: rawSugarscape2308095721203553693.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape2308095721203553693.config > rawSugarscape2308095721203553693.json
+
+benthamHalfLookaheadBinary1482712960492005850.json: benthamHalfLookaheadBinary1482712960492005850.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary1482712960492005850.config > benthamHalfLookaheadBinary1482712960492005850.json
+
+egoisticHalfLookaheadBinary1482712960492005850.json: egoisticHalfLookaheadBinary1482712960492005850.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary1482712960492005850.config > egoisticHalfLookaheadBinary1482712960492005850.json
+
+rawSugarscape1482712960492005850.json: rawSugarscape1482712960492005850.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape1482712960492005850.config > rawSugarscape1482712960492005850.json
+
+benthamHalfLookaheadBinary3311234865068594622.json: benthamHalfLookaheadBinary3311234865068594622.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary3311234865068594622.config > benthamHalfLookaheadBinary3311234865068594622.json
+
+egoisticHalfLookaheadBinary3311234865068594622.json: egoisticHalfLookaheadBinary3311234865068594622.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary3311234865068594622.config > egoisticHalfLookaheadBinary3311234865068594622.json
+
+rawSugarscape3311234865068594622.json: rawSugarscape3311234865068594622.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape3311234865068594622.config > rawSugarscape3311234865068594622.json
+
+benthamHalfLookaheadBinary6786649258870538149.json: benthamHalfLookaheadBinary6786649258870538149.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary6786649258870538149.config > benthamHalfLookaheadBinary6786649258870538149.json
+
+egoisticHalfLookaheadBinary6786649258870538149.json: egoisticHalfLookaheadBinary6786649258870538149.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary6786649258870538149.config > egoisticHalfLookaheadBinary6786649258870538149.json
+
+rawSugarscape6786649258870538149.json: rawSugarscape6786649258870538149.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape6786649258870538149.config > rawSugarscape6786649258870538149.json
+
+benthamHalfLookaheadBinary7331907972443804423.json: benthamHalfLookaheadBinary7331907972443804423.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary7331907972443804423.config > benthamHalfLookaheadBinary7331907972443804423.json
+
+egoisticHalfLookaheadBinary7331907972443804423.json: egoisticHalfLookaheadBinary7331907972443804423.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary7331907972443804423.config > egoisticHalfLookaheadBinary7331907972443804423.json
+
+rawSugarscape7331907972443804423.json: rawSugarscape7331907972443804423.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape7331907972443804423.config > rawSugarscape7331907972443804423.json
+
+benthamHalfLookaheadBinary5659461046946380778.json: benthamHalfLookaheadBinary5659461046946380778.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary5659461046946380778.config > benthamHalfLookaheadBinary5659461046946380778.json
+
+egoisticHalfLookaheadBinary5659461046946380778.json: egoisticHalfLookaheadBinary5659461046946380778.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary5659461046946380778.config > egoisticHalfLookaheadBinary5659461046946380778.json
+
+rawSugarscape5659461046946380778.json: rawSugarscape5659461046946380778.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape5659461046946380778.config > rawSugarscape5659461046946380778.json
+
+benthamHalfLookaheadBinary3872740423873791258.json: benthamHalfLookaheadBinary3872740423873791258.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary3872740423873791258.config > benthamHalfLookaheadBinary3872740423873791258.json
+
+egoisticHalfLookaheadBinary3872740423873791258.json: egoisticHalfLookaheadBinary3872740423873791258.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary3872740423873791258.config > egoisticHalfLookaheadBinary3872740423873791258.json
+
+rawSugarscape3872740423873791258.json: rawSugarscape3872740423873791258.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape3872740423873791258.config > rawSugarscape3872740423873791258.json
+
+benthamHalfLookaheadBinary1491701625986446173.json: benthamHalfLookaheadBinary1491701625986446173.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary1491701625986446173.config > benthamHalfLookaheadBinary1491701625986446173.json
+
+egoisticHalfLookaheadBinary1491701625986446173.json: egoisticHalfLookaheadBinary1491701625986446173.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary1491701625986446173.config > egoisticHalfLookaheadBinary1491701625986446173.json
+
+rawSugarscape1491701625986446173.json: rawSugarscape1491701625986446173.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape1491701625986446173.config > rawSugarscape1491701625986446173.json
+
+benthamHalfLookaheadBinary1333478357539002959.json: benthamHalfLookaheadBinary1333478357539002959.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary1333478357539002959.config > benthamHalfLookaheadBinary1333478357539002959.json
+
+egoisticHalfLookaheadBinary1333478357539002959.json: egoisticHalfLookaheadBinary1333478357539002959.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary1333478357539002959.config > egoisticHalfLookaheadBinary1333478357539002959.json
+
+rawSugarscape1333478357539002959.json: rawSugarscape1333478357539002959.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape1333478357539002959.config > rawSugarscape1333478357539002959.json
+
+benthamHalfLookaheadBinary7295837008788246618.json: benthamHalfLookaheadBinary7295837008788246618.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary7295837008788246618.config > benthamHalfLookaheadBinary7295837008788246618.json
+
+egoisticHalfLookaheadBinary7295837008788246618.json: egoisticHalfLookaheadBinary7295837008788246618.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary7295837008788246618.config > egoisticHalfLookaheadBinary7295837008788246618.json
+
+rawSugarscape7295837008788246618.json: rawSugarscape7295837008788246618.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape7295837008788246618.config > rawSugarscape7295837008788246618.json
+
+benthamHalfLookaheadBinary1098944793440429482.json: benthamHalfLookaheadBinary1098944793440429482.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary1098944793440429482.config > benthamHalfLookaheadBinary1098944793440429482.json
+
+egoisticHalfLookaheadBinary1098944793440429482.json: egoisticHalfLookaheadBinary1098944793440429482.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary1098944793440429482.config > egoisticHalfLookaheadBinary1098944793440429482.json
+
+rawSugarscape1098944793440429482.json: rawSugarscape1098944793440429482.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape1098944793440429482.config > rawSugarscape1098944793440429482.json
+
+benthamHalfLookaheadBinary8315765365343598660.json: benthamHalfLookaheadBinary8315765365343598660.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary8315765365343598660.config > benthamHalfLookaheadBinary8315765365343598660.json
+
+egoisticHalfLookaheadBinary8315765365343598660.json: egoisticHalfLookaheadBinary8315765365343598660.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary8315765365343598660.config > egoisticHalfLookaheadBinary8315765365343598660.json
+
+rawSugarscape8315765365343598660.json: rawSugarscape8315765365343598660.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape8315765365343598660.config > rawSugarscape8315765365343598660.json
+
+benthamHalfLookaheadBinary7702622749410325674.json: benthamHalfLookaheadBinary7702622749410325674.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary7702622749410325674.config > benthamHalfLookaheadBinary7702622749410325674.json
+
+egoisticHalfLookaheadBinary7702622749410325674.json: egoisticHalfLookaheadBinary7702622749410325674.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary7702622749410325674.config > egoisticHalfLookaheadBinary7702622749410325674.json
+
+rawSugarscape7702622749410325674.json: rawSugarscape7702622749410325674.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape7702622749410325674.config > rawSugarscape7702622749410325674.json
+
+benthamHalfLookaheadBinary3596177368190014311.json: benthamHalfLookaheadBinary3596177368190014311.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary3596177368190014311.config > benthamHalfLookaheadBinary3596177368190014311.json
+
+egoisticHalfLookaheadBinary3596177368190014311.json: egoisticHalfLookaheadBinary3596177368190014311.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary3596177368190014311.config > egoisticHalfLookaheadBinary3596177368190014311.json
+
+rawSugarscape3596177368190014311.json: rawSugarscape3596177368190014311.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape3596177368190014311.config > rawSugarscape3596177368190014311.json
+
+benthamHalfLookaheadBinary346168593913199272.json: benthamHalfLookaheadBinary346168593913199272.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary346168593913199272.config > benthamHalfLookaheadBinary346168593913199272.json
+
+egoisticHalfLookaheadBinary346168593913199272.json: egoisticHalfLookaheadBinary346168593913199272.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary346168593913199272.config > egoisticHalfLookaheadBinary346168593913199272.json
+
+rawSugarscape346168593913199272.json: rawSugarscape346168593913199272.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape346168593913199272.config > rawSugarscape346168593913199272.json
+
+benthamHalfLookaheadBinary508877524404705900.json: benthamHalfLookaheadBinary508877524404705900.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary508877524404705900.config > benthamHalfLookaheadBinary508877524404705900.json
+
+egoisticHalfLookaheadBinary508877524404705900.json: egoisticHalfLookaheadBinary508877524404705900.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary508877524404705900.config > egoisticHalfLookaheadBinary508877524404705900.json
+
+rawSugarscape508877524404705900.json: rawSugarscape508877524404705900.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape508877524404705900.config > rawSugarscape508877524404705900.json
+
+benthamHalfLookaheadBinary7572008415935434650.json: benthamHalfLookaheadBinary7572008415935434650.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary7572008415935434650.config > benthamHalfLookaheadBinary7572008415935434650.json
+
+egoisticHalfLookaheadBinary7572008415935434650.json: egoisticHalfLookaheadBinary7572008415935434650.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary7572008415935434650.config > egoisticHalfLookaheadBinary7572008415935434650.json
+
+rawSugarscape7572008415935434650.json: rawSugarscape7572008415935434650.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape7572008415935434650.config > rawSugarscape7572008415935434650.json
+
+benthamHalfLookaheadBinary923793261546160393.json: benthamHalfLookaheadBinary923793261546160393.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary923793261546160393.config > benthamHalfLookaheadBinary923793261546160393.json
+
+egoisticHalfLookaheadBinary923793261546160393.json: egoisticHalfLookaheadBinary923793261546160393.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary923793261546160393.config > egoisticHalfLookaheadBinary923793261546160393.json
+
+rawSugarscape923793261546160393.json: rawSugarscape923793261546160393.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape923793261546160393.config > rawSugarscape923793261546160393.json
+
+benthamHalfLookaheadBinary3305661416083972805.json: benthamHalfLookaheadBinary3305661416083972805.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary3305661416083972805.config > benthamHalfLookaheadBinary3305661416083972805.json
+
+egoisticHalfLookaheadBinary3305661416083972805.json: egoisticHalfLookaheadBinary3305661416083972805.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary3305661416083972805.config > egoisticHalfLookaheadBinary3305661416083972805.json
+
+rawSugarscape3305661416083972805.json: rawSugarscape3305661416083972805.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape3305661416083972805.config > rawSugarscape3305661416083972805.json
+
+benthamHalfLookaheadBinary756706360835767608.json: benthamHalfLookaheadBinary756706360835767608.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary756706360835767608.config > benthamHalfLookaheadBinary756706360835767608.json
+
+egoisticHalfLookaheadBinary756706360835767608.json: egoisticHalfLookaheadBinary756706360835767608.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary756706360835767608.config > egoisticHalfLookaheadBinary756706360835767608.json
+
+rawSugarscape756706360835767608.json: rawSugarscape756706360835767608.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape756706360835767608.config > rawSugarscape756706360835767608.json
+
+benthamHalfLookaheadBinary7311488796109084387.json: benthamHalfLookaheadBinary7311488796109084387.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary7311488796109084387.config > benthamHalfLookaheadBinary7311488796109084387.json
+
+egoisticHalfLookaheadBinary7311488796109084387.json: egoisticHalfLookaheadBinary7311488796109084387.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary7311488796109084387.config > egoisticHalfLookaheadBinary7311488796109084387.json
+
+rawSugarscape7311488796109084387.json: rawSugarscape7311488796109084387.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape7311488796109084387.config > rawSugarscape7311488796109084387.json
+
+benthamHalfLookaheadBinary6811513652885314103.json: benthamHalfLookaheadBinary6811513652885314103.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary6811513652885314103.config > benthamHalfLookaheadBinary6811513652885314103.json
+
+egoisticHalfLookaheadBinary6811513652885314103.json: egoisticHalfLookaheadBinary6811513652885314103.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary6811513652885314103.config > egoisticHalfLookaheadBinary6811513652885314103.json
+
+rawSugarscape6811513652885314103.json: rawSugarscape6811513652885314103.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape6811513652885314103.config > rawSugarscape6811513652885314103.json
+
+benthamHalfLookaheadBinary7117867507685029319.json: benthamHalfLookaheadBinary7117867507685029319.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary7117867507685029319.config > benthamHalfLookaheadBinary7117867507685029319.json
+
+egoisticHalfLookaheadBinary7117867507685029319.json: egoisticHalfLookaheadBinary7117867507685029319.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary7117867507685029319.config > egoisticHalfLookaheadBinary7117867507685029319.json
+
+rawSugarscape7117867507685029319.json: rawSugarscape7117867507685029319.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape7117867507685029319.config > rawSugarscape7117867507685029319.json
+
+benthamHalfLookaheadBinary5617221546796572057.json: benthamHalfLookaheadBinary5617221546796572057.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary5617221546796572057.config > benthamHalfLookaheadBinary5617221546796572057.json
+
+egoisticHalfLookaheadBinary5617221546796572057.json: egoisticHalfLookaheadBinary5617221546796572057.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary5617221546796572057.config > egoisticHalfLookaheadBinary5617221546796572057.json
+
+rawSugarscape5617221546796572057.json: rawSugarscape5617221546796572057.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape5617221546796572057.config > rawSugarscape5617221546796572057.json
+
+benthamHalfLookaheadBinary7567627646122382623.json: benthamHalfLookaheadBinary7567627646122382623.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary7567627646122382623.config > benthamHalfLookaheadBinary7567627646122382623.json
+
+egoisticHalfLookaheadBinary7567627646122382623.json: egoisticHalfLookaheadBinary7567627646122382623.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary7567627646122382623.config > egoisticHalfLookaheadBinary7567627646122382623.json
+
+rawSugarscape7567627646122382623.json: rawSugarscape7567627646122382623.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape7567627646122382623.config > rawSugarscape7567627646122382623.json
+
+benthamHalfLookaheadBinary7436236235520038613.json: benthamHalfLookaheadBinary7436236235520038613.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary7436236235520038613.config > benthamHalfLookaheadBinary7436236235520038613.json
+
+egoisticHalfLookaheadBinary7436236235520038613.json: egoisticHalfLookaheadBinary7436236235520038613.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary7436236235520038613.config > egoisticHalfLookaheadBinary7436236235520038613.json
+
+rawSugarscape7436236235520038613.json: rawSugarscape7436236235520038613.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape7436236235520038613.config > rawSugarscape7436236235520038613.json
+
+benthamHalfLookaheadBinary3645665816527741718.json: benthamHalfLookaheadBinary3645665816527741718.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary3645665816527741718.config > benthamHalfLookaheadBinary3645665816527741718.json
+
+egoisticHalfLookaheadBinary3645665816527741718.json: egoisticHalfLookaheadBinary3645665816527741718.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary3645665816527741718.config > egoisticHalfLookaheadBinary3645665816527741718.json
+
+rawSugarscape3645665816527741718.json: rawSugarscape3645665816527741718.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape3645665816527741718.config > rawSugarscape3645665816527741718.json
+
+benthamHalfLookaheadBinary5073078431919078754.json: benthamHalfLookaheadBinary5073078431919078754.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary5073078431919078754.config > benthamHalfLookaheadBinary5073078431919078754.json
+
+egoisticHalfLookaheadBinary5073078431919078754.json: egoisticHalfLookaheadBinary5073078431919078754.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary5073078431919078754.config > egoisticHalfLookaheadBinary5073078431919078754.json
+
+rawSugarscape5073078431919078754.json: rawSugarscape5073078431919078754.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape5073078431919078754.config > rawSugarscape5073078431919078754.json
+
+benthamHalfLookaheadBinary8909269105182240328.json: benthamHalfLookaheadBinary8909269105182240328.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary8909269105182240328.config > benthamHalfLookaheadBinary8909269105182240328.json
+
+egoisticHalfLookaheadBinary8909269105182240328.json: egoisticHalfLookaheadBinary8909269105182240328.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary8909269105182240328.config > egoisticHalfLookaheadBinary8909269105182240328.json
+
+rawSugarscape8909269105182240328.json: rawSugarscape8909269105182240328.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape8909269105182240328.config > rawSugarscape8909269105182240328.json
+
+benthamHalfLookaheadBinary8952653756249173921.json: benthamHalfLookaheadBinary8952653756249173921.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary8952653756249173921.config > benthamHalfLookaheadBinary8952653756249173921.json
+
+egoisticHalfLookaheadBinary8952653756249173921.json: egoisticHalfLookaheadBinary8952653756249173921.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary8952653756249173921.config > egoisticHalfLookaheadBinary8952653756249173921.json
+
+rawSugarscape8952653756249173921.json: rawSugarscape8952653756249173921.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape8952653756249173921.config > rawSugarscape8952653756249173921.json
+
+benthamHalfLookaheadBinary5730854531654564567.json: benthamHalfLookaheadBinary5730854531654564567.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary5730854531654564567.config > benthamHalfLookaheadBinary5730854531654564567.json
+
+egoisticHalfLookaheadBinary5730854531654564567.json: egoisticHalfLookaheadBinary5730854531654564567.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary5730854531654564567.config > egoisticHalfLookaheadBinary5730854531654564567.json
+
+rawSugarscape5730854531654564567.json: rawSugarscape5730854531654564567.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape5730854531654564567.config > rawSugarscape5730854531654564567.json
+
+benthamHalfLookaheadBinary5188804330423683293.json: benthamHalfLookaheadBinary5188804330423683293.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary5188804330423683293.config > benthamHalfLookaheadBinary5188804330423683293.json
+
+egoisticHalfLookaheadBinary5188804330423683293.json: egoisticHalfLookaheadBinary5188804330423683293.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary5188804330423683293.config > egoisticHalfLookaheadBinary5188804330423683293.json
+
+rawSugarscape5188804330423683293.json: rawSugarscape5188804330423683293.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape5188804330423683293.config > rawSugarscape5188804330423683293.json
+
+benthamHalfLookaheadBinary1307178774826463914.json: benthamHalfLookaheadBinary1307178774826463914.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary1307178774826463914.config > benthamHalfLookaheadBinary1307178774826463914.json
+
+egoisticHalfLookaheadBinary1307178774826463914.json: egoisticHalfLookaheadBinary1307178774826463914.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary1307178774826463914.config > egoisticHalfLookaheadBinary1307178774826463914.json
+
+rawSugarscape1307178774826463914.json: rawSugarscape1307178774826463914.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape1307178774826463914.config > rawSugarscape1307178774826463914.json
+
+benthamHalfLookaheadBinary3136177325476631561.json: benthamHalfLookaheadBinary3136177325476631561.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary3136177325476631561.config > benthamHalfLookaheadBinary3136177325476631561.json
+
+egoisticHalfLookaheadBinary3136177325476631561.json: egoisticHalfLookaheadBinary3136177325476631561.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary3136177325476631561.config > egoisticHalfLookaheadBinary3136177325476631561.json
+
+rawSugarscape3136177325476631561.json: rawSugarscape3136177325476631561.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape3136177325476631561.config > rawSugarscape3136177325476631561.json
+
+benthamHalfLookaheadBinary917998593045402748.json: benthamHalfLookaheadBinary917998593045402748.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary917998593045402748.config > benthamHalfLookaheadBinary917998593045402748.json
+
+egoisticHalfLookaheadBinary917998593045402748.json: egoisticHalfLookaheadBinary917998593045402748.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary917998593045402748.config > egoisticHalfLookaheadBinary917998593045402748.json
+
+rawSugarscape917998593045402748.json: rawSugarscape917998593045402748.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape917998593045402748.config > rawSugarscape917998593045402748.json
+
+benthamHalfLookaheadBinary7864161639037045209.json: benthamHalfLookaheadBinary7864161639037045209.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary7864161639037045209.config > benthamHalfLookaheadBinary7864161639037045209.json
+
+egoisticHalfLookaheadBinary7864161639037045209.json: egoisticHalfLookaheadBinary7864161639037045209.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary7864161639037045209.config > egoisticHalfLookaheadBinary7864161639037045209.json
+
+rawSugarscape7864161639037045209.json: rawSugarscape7864161639037045209.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape7864161639037045209.config > rawSugarscape7864161639037045209.json
+
+benthamHalfLookaheadBinary683886306843651418.json: benthamHalfLookaheadBinary683886306843651418.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary683886306843651418.config > benthamHalfLookaheadBinary683886306843651418.json
+
+egoisticHalfLookaheadBinary683886306843651418.json: egoisticHalfLookaheadBinary683886306843651418.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary683886306843651418.config > egoisticHalfLookaheadBinary683886306843651418.json
+
+rawSugarscape683886306843651418.json: rawSugarscape683886306843651418.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape683886306843651418.config > rawSugarscape683886306843651418.json
+
+benthamHalfLookaheadBinary4467281206147072229.json: benthamHalfLookaheadBinary4467281206147072229.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary4467281206147072229.config > benthamHalfLookaheadBinary4467281206147072229.json
+
+egoisticHalfLookaheadBinary4467281206147072229.json: egoisticHalfLookaheadBinary4467281206147072229.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary4467281206147072229.config > egoisticHalfLookaheadBinary4467281206147072229.json
+
+rawSugarscape4467281206147072229.json: rawSugarscape4467281206147072229.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape4467281206147072229.config > rawSugarscape4467281206147072229.json
+
+benthamHalfLookaheadBinary6017632949670385966.json: benthamHalfLookaheadBinary6017632949670385966.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary6017632949670385966.config > benthamHalfLookaheadBinary6017632949670385966.json
+
+egoisticHalfLookaheadBinary6017632949670385966.json: egoisticHalfLookaheadBinary6017632949670385966.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary6017632949670385966.config > egoisticHalfLookaheadBinary6017632949670385966.json
+
+rawSugarscape6017632949670385966.json: rawSugarscape6017632949670385966.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape6017632949670385966.config > rawSugarscape6017632949670385966.json
+
+benthamHalfLookaheadBinary4785971887686679389.json: benthamHalfLookaheadBinary4785971887686679389.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary4785971887686679389.config > benthamHalfLookaheadBinary4785971887686679389.json
+
+egoisticHalfLookaheadBinary4785971887686679389.json: egoisticHalfLookaheadBinary4785971887686679389.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary4785971887686679389.config > egoisticHalfLookaheadBinary4785971887686679389.json
+
+rawSugarscape4785971887686679389.json: rawSugarscape4785971887686679389.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape4785971887686679389.config > rawSugarscape4785971887686679389.json
+
+benthamHalfLookaheadBinary284055914408957394.json: benthamHalfLookaheadBinary284055914408957394.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary284055914408957394.config > benthamHalfLookaheadBinary284055914408957394.json
+
+egoisticHalfLookaheadBinary284055914408957394.json: egoisticHalfLookaheadBinary284055914408957394.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary284055914408957394.config > egoisticHalfLookaheadBinary284055914408957394.json
+
+rawSugarscape284055914408957394.json: rawSugarscape284055914408957394.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape284055914408957394.config > rawSugarscape284055914408957394.json
+
+benthamHalfLookaheadBinary7859553897253134660.json: benthamHalfLookaheadBinary7859553897253134660.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary7859553897253134660.config > benthamHalfLookaheadBinary7859553897253134660.json
+
+egoisticHalfLookaheadBinary7859553897253134660.json: egoisticHalfLookaheadBinary7859553897253134660.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary7859553897253134660.config > egoisticHalfLookaheadBinary7859553897253134660.json
+
+rawSugarscape7859553897253134660.json: rawSugarscape7859553897253134660.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape7859553897253134660.config > rawSugarscape7859553897253134660.json
+
+benthamHalfLookaheadBinary922822056596338407.json: benthamHalfLookaheadBinary922822056596338407.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary922822056596338407.config > benthamHalfLookaheadBinary922822056596338407.json
+
+egoisticHalfLookaheadBinary922822056596338407.json: egoisticHalfLookaheadBinary922822056596338407.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary922822056596338407.config > egoisticHalfLookaheadBinary922822056596338407.json
+
+rawSugarscape922822056596338407.json: rawSugarscape922822056596338407.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape922822056596338407.config > rawSugarscape922822056596338407.json
+
+benthamHalfLookaheadBinary9192062249327171090.json: benthamHalfLookaheadBinary9192062249327171090.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary9192062249327171090.config > benthamHalfLookaheadBinary9192062249327171090.json
+
+egoisticHalfLookaheadBinary9192062249327171090.json: egoisticHalfLookaheadBinary9192062249327171090.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary9192062249327171090.config > egoisticHalfLookaheadBinary9192062249327171090.json
+
+rawSugarscape9192062249327171090.json: rawSugarscape9192062249327171090.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape9192062249327171090.config > rawSugarscape9192062249327171090.json
+
+benthamHalfLookaheadBinary1481254945771550344.json: benthamHalfLookaheadBinary1481254945771550344.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary1481254945771550344.config > benthamHalfLookaheadBinary1481254945771550344.json
+
+egoisticHalfLookaheadBinary1481254945771550344.json: egoisticHalfLookaheadBinary1481254945771550344.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary1481254945771550344.config > egoisticHalfLookaheadBinary1481254945771550344.json
+
+rawSugarscape1481254945771550344.json: rawSugarscape1481254945771550344.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape1481254945771550344.config > rawSugarscape1481254945771550344.json
+
+benthamHalfLookaheadBinary2374480967633334276.json: benthamHalfLookaheadBinary2374480967633334276.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary2374480967633334276.config > benthamHalfLookaheadBinary2374480967633334276.json
+
+egoisticHalfLookaheadBinary2374480967633334276.json: egoisticHalfLookaheadBinary2374480967633334276.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary2374480967633334276.config > egoisticHalfLookaheadBinary2374480967633334276.json
+
+rawSugarscape2374480967633334276.json: rawSugarscape2374480967633334276.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape2374480967633334276.config > rawSugarscape2374480967633334276.json
+
+benthamHalfLookaheadBinary1336588502011845141.json: benthamHalfLookaheadBinary1336588502011845141.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary1336588502011845141.config > benthamHalfLookaheadBinary1336588502011845141.json
+
+egoisticHalfLookaheadBinary1336588502011845141.json: egoisticHalfLookaheadBinary1336588502011845141.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary1336588502011845141.config > egoisticHalfLookaheadBinary1336588502011845141.json
+
+rawSugarscape1336588502011845141.json: rawSugarscape1336588502011845141.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape1336588502011845141.config > rawSugarscape1336588502011845141.json
+
+benthamHalfLookaheadBinary3108353377674622526.json: benthamHalfLookaheadBinary3108353377674622526.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary3108353377674622526.config > benthamHalfLookaheadBinary3108353377674622526.json
+
+egoisticHalfLookaheadBinary3108353377674622526.json: egoisticHalfLookaheadBinary3108353377674622526.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary3108353377674622526.config > egoisticHalfLookaheadBinary3108353377674622526.json
+
+rawSugarscape3108353377674622526.json: rawSugarscape3108353377674622526.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape3108353377674622526.config > rawSugarscape3108353377674622526.json
+
+benthamHalfLookaheadBinary6133891301230973120.json: benthamHalfLookaheadBinary6133891301230973120.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary6133891301230973120.config > benthamHalfLookaheadBinary6133891301230973120.json
+
+egoisticHalfLookaheadBinary6133891301230973120.json: egoisticHalfLookaheadBinary6133891301230973120.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary6133891301230973120.config > egoisticHalfLookaheadBinary6133891301230973120.json
+
+rawSugarscape6133891301230973120.json: rawSugarscape6133891301230973120.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape6133891301230973120.config > rawSugarscape6133891301230973120.json
+
+benthamHalfLookaheadBinary2632072086238073047.json: benthamHalfLookaheadBinary2632072086238073047.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary2632072086238073047.config > benthamHalfLookaheadBinary2632072086238073047.json
+
+egoisticHalfLookaheadBinary2632072086238073047.json: egoisticHalfLookaheadBinary2632072086238073047.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary2632072086238073047.config > egoisticHalfLookaheadBinary2632072086238073047.json
+
+rawSugarscape2632072086238073047.json: rawSugarscape2632072086238073047.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape2632072086238073047.config > rawSugarscape2632072086238073047.json
+
+benthamHalfLookaheadBinary8738622067199920959.json: benthamHalfLookaheadBinary8738622067199920959.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary8738622067199920959.config > benthamHalfLookaheadBinary8738622067199920959.json
+
+egoisticHalfLookaheadBinary8738622067199920959.json: egoisticHalfLookaheadBinary8738622067199920959.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary8738622067199920959.config > egoisticHalfLookaheadBinary8738622067199920959.json
+
+rawSugarscape8738622067199920959.json: rawSugarscape8738622067199920959.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape8738622067199920959.config > rawSugarscape8738622067199920959.json
+
+benthamHalfLookaheadBinary6812682011176762182.json: benthamHalfLookaheadBinary6812682011176762182.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary6812682011176762182.config > benthamHalfLookaheadBinary6812682011176762182.json
+
+egoisticHalfLookaheadBinary6812682011176762182.json: egoisticHalfLookaheadBinary6812682011176762182.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary6812682011176762182.config > egoisticHalfLookaheadBinary6812682011176762182.json
+
+rawSugarscape6812682011176762182.json: rawSugarscape6812682011176762182.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape6812682011176762182.config > rawSugarscape6812682011176762182.json
+
+benthamHalfLookaheadBinary8628865372769643729.json: benthamHalfLookaheadBinary8628865372769643729.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary8628865372769643729.config > benthamHalfLookaheadBinary8628865372769643729.json
+
+egoisticHalfLookaheadBinary8628865372769643729.json: egoisticHalfLookaheadBinary8628865372769643729.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary8628865372769643729.config > egoisticHalfLookaheadBinary8628865372769643729.json
+
+rawSugarscape8628865372769643729.json: rawSugarscape8628865372769643729.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape8628865372769643729.config > rawSugarscape8628865372769643729.json
+
+benthamHalfLookaheadBinary5511180313872750649.json: benthamHalfLookaheadBinary5511180313872750649.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary5511180313872750649.config > benthamHalfLookaheadBinary5511180313872750649.json
+
+egoisticHalfLookaheadBinary5511180313872750649.json: egoisticHalfLookaheadBinary5511180313872750649.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary5511180313872750649.config > egoisticHalfLookaheadBinary5511180313872750649.json
+
+rawSugarscape5511180313872750649.json: rawSugarscape5511180313872750649.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape5511180313872750649.config > rawSugarscape5511180313872750649.json
+
+benthamHalfLookaheadBinary7358874304816504613.json: benthamHalfLookaheadBinary7358874304816504613.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary7358874304816504613.config > benthamHalfLookaheadBinary7358874304816504613.json
+
+egoisticHalfLookaheadBinary7358874304816504613.json: egoisticHalfLookaheadBinary7358874304816504613.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary7358874304816504613.config > egoisticHalfLookaheadBinary7358874304816504613.json
+
+rawSugarscape7358874304816504613.json: rawSugarscape7358874304816504613.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape7358874304816504613.config > rawSugarscape7358874304816504613.json
+
+benthamHalfLookaheadBinary2882392068507917742.json: benthamHalfLookaheadBinary2882392068507917742.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf benthamHalfLookaheadBinary2882392068507917742.config > benthamHalfLookaheadBinary2882392068507917742.json
+
+egoisticHalfLookaheadBinary2882392068507917742.json: egoisticHalfLookaheadBinary2882392068507917742.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf egoisticHalfLookaheadBinary2882392068507917742.config > egoisticHalfLookaheadBinary2882392068507917742.json
+
+rawSugarscape2882392068507917742.json: rawSugarscape2882392068507917742.config sugarscape.py agent.py cell.py disease.py environment.py ethics.py
+	 python3 sugarscape.py --conf rawSugarscape2882392068507917742.config > rawSugarscape2882392068507917742.json
+

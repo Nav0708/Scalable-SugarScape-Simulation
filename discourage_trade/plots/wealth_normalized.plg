@@ -1,0 +1,12 @@
+set xlabel "Timestep"
+set ylabel "Total Wealth / Population"
+set lt 1 lw 2 lc "black"
+set xtics nomirror
+set ytics nomirror
+set key fixed right bottom
+set term pdf font "Times,20"
+set output "wealth_normalized.pdf"
+
+plot ARGV[1] using 'timestep':(column('benthamHalfLookaheadBinary_welt')/column('benthamHalfLookaheadBinary_pop')) with linespoints pointinterval 100 pointsize 0.75  lc 'magenta' lt 1 dt 1 pt 2 title 'Utilitarian', \
+	'' u 'timestep':(column('egoisticHalfLookaheadBinary_welt')/column('egoisticHalfLookaheadBinary_pop')) with linespoints pointinterval 100 pointsize 0.75  lc 'cyan' lt 1 dt 1 pt 1 title 'Egoist', \
+	'' u 'timestep':(column('rawSugarscape_welt')/column('rawSugarscape_pop')) with linespoints pointinterval 100 pointsize 0.75  lc 'gold' lt 1 dt 1 pt 0 title 'Raw Sugarscape'
