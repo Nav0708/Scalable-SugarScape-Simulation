@@ -1,0 +1,17 @@
+universe = vanilla
+executable = condor.sh
+arguments = "python3 sugarscape.py --conf benthamHalfLookaheadBinary730893581189063490.config > benthamHalfLookaheadBinary730893581189063490.json "
+transfer_input_files = ethics.py,environment.py,disease.py,cell.py,agent.py,sugarscape.py,benthamHalfLookaheadBinary730893581189063490.config
+should_transfer_files = yes
+when_to_transfer_output = on_exit
+notification = never
+copy_to_spool = true
+transfer_executable = true
+keep_claim_idle = 30
+log = runSimulations.mf.condorlog
++JobMaxSuspendTime = 0
+getenv = true
+request_cpus = 1
+request_memory = 1024
+request_disk = 1048576
+queue
