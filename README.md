@@ -1,4 +1,4 @@
-# Sugarscape Agent-Based Model
+# Scalable Sugarscape Simulation
 ---
 Welcome to the Sugarscape Agent-Based Model! This Python implementation is based on the Sugarscape model introduced in "Growing Artificial Societies" by Epstein and Axtell. It allows for simulating the behavior of agents in a dynamic environment where they collect and consume resources, interact with each other, and make decisions based on various decision models.
 
