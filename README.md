@@ -27,5 +27,3 @@ python sugarscape.py
 
 For more advanced usage and options, refer to the Makefile options and JSON configuration file options in the documentation.
 ---
-
-Feel free to customize the README to better fit your project's specifics and style!
